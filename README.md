@@ -1,6 +1,6 @@
 # django_celery_mongo
 
-Experimenting with exporting Django-celery results and logs to a MongoDB database.
+Exporting Django-celery results and logs to a MongoDB database.
 
 This application is developed using:
 - [Django](https://www.djangoproject.com/)
